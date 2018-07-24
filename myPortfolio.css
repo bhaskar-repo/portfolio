@@ -211,6 +211,9 @@ a : hover {
 		width : 95vw;
 		height : 40vh;
 	}
+	.footer-text {
+		font-size: 1rem;
+	}
 }
 
 @media screen and (max-width: 352px) {
